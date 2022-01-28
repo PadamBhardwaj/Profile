@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #D6E5FA;
+}
+
+.hello {
+    color: rgb(2, 99, 102);
+}
+
+hr {
+    border: dotted #c7cccc 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 80px auto;
+}
+
+.intro {
+    margin: auto;
+    width: 30%;
+    padding-bottom: 30px;
+    line-height: 2;
+    color: rgb(2, 127, 131);
+}
+
+.firstdiv {
+    margin-top: 100px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #e8e8e8;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.contact-me {
+    padding: 8px;
+    margin: 20px;
+    line-height: 2;
+}
+
+
+.mountain {
+    width: auto;
+    position: relative;
+    top: 30px;
+}
+
+.bottom-container {
+    margin-top: 8px;
+    background-color: #66bfbf;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    /* margin: 0 auto 8px 0; */
+    font-weight: normal;
+}
+
+h2 {
+    padding: 8px;
+    margin: 8px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+    /* text-align: left; */
+    line-height: 2;
+
+}
+
+
+
+h1 {
+    margin: 5px;
+    line-height: 1.5;
+    font: italic;
+    font-family: 'Sacramento', cursive;
+    ;
+    font-size: 5rem;
+}
+
+p {
+    margin: 10px;
+}
+
+.cloud1 {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 280px;
+    top: 20px;
+}
+
+img {
+    display: inline-block;
+
+}
+
+.C {
+    width: 30%;
+    float: left;
+    position: relative;
+    bottom: 50px;
+}
+
+.html {
+    width: 30%;
+    float: right;
+    position: relative;
+    bottom: 50px;
+}
+
+.cloud2 {
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 270px;
+    left: 200px;
+}
+
+a {
+    color: #11999E;
+    font-family: cursive;
+    margin:  20px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    margin-bottom: 0;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
